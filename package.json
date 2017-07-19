@@ -1,0 +1,17 @@
+{
+  "name": "codelocalwebsite",
+  "version": "1.0.0",
+  "description": "This is the codelocal website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Ellis",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "passport": "^0.3.2",
+    "pug": "^2.0.0-rc.2"
+  }
+}
